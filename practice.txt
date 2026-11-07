@@ -1,0 +1,4 @@
+git init 
+git status
+git rev-parse --show-toplevel -> Show the folder
+git diff
