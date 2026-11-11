@@ -4,3 +4,4 @@ git rev-parse --show-toplevel -> Show the folder
 git diff
 git diff --staged
 git config --list --show-origin
+git log 
